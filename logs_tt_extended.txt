@@ -1,0 +1,36 @@
+First lab statistics
+
+	average result for 10 x 10000000 matrix
+	linear algo : 346 nanoseconds
+	log algo : 2789 nanoseconds
+
+
+	average result for 100 x 1000000 matrix
+	linear algo : 4986 nanoseconds
+	log algo : 25926 nanoseconds
+
+
+	average result for 1000 x 100000 matrix
+	linear algo : 112677 nanoseconds
+	log algo : 389867 nanoseconds
+
+
+	average result for 10000 x 10000 matrix
+	linear algo : 1038444 nanoseconds
+	log algo : 1374846 nanoseconds
+
+
+	average result for 100000 x 1000 matrix
+	linear algo : 112529 nanoseconds
+	log algo : 190679 nanoseconds
+
+
+	average result for 1000000 x 100 matrix
+	linear algo : 13902 nanoseconds
+	log algo : 45019 nanoseconds
+
+
+	average result for 10000000 x 10 matrix
+	linear algo : 2141 nanoseconds
+	log algo : 20237 nanoseconds
+

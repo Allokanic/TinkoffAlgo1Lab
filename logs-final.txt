@@ -1,0 +1,111 @@
+First lab (measuring time)
+
+Matrix 1048576 x 2 n/m = 524288
+	linear algo: 
+		1 data type : 1791
+		2 data type : 1815
+	log algo: 
+		1 data type : 1257
+		2 data type : 1221
+	exp algo: 
+		1 data type : 1373
+		2 data type : 1277
+
+Matrix 524288 x 4 n/m = 131072
+	linear algo: 
+		1 data type : 2475
+		2 data type : 2171
+	log algo: 
+		1 data type : 1297
+		2 data type : 1360
+	exp algo: 
+		1 data type : 1354
+		2 data type : 1340
+
+Matrix 262144 x 8 n/m = 32768
+	linear algo: 
+		1 data type : 3246
+		2 data type : 3199
+	log algo: 
+		1 data type : 1412
+		2 data type : 1384
+	exp algo: 
+		1 data type : 1381
+		2 data type : 1335
+
+Matrix 131072 x 16 n/m = 8192
+	linear algo: 
+		1 data type : 7600
+		2 data type : 7683
+	log algo: 
+		1 data type : 1870
+		2 data type : 1894
+	exp algo: 
+		1 data type : 1623
+		2 data type : 1582
+
+Matrix 65536 x 32 n/m = 2048
+	linear algo: 
+		1 data type : 14040
+		2 data type : 14220
+	log algo: 
+		1 data type : 2560
+		2 data type : 2468
+	exp algo: 
+		1 data type : 1662
+		2 data type : 1653
+
+Matrix 32768 x 64 n/m = 512
+	linear algo: 
+		1 data type : 24543
+		2 data type : 24690
+	log algo: 
+		1 data type : 3989
+		2 data type : 3830
+	exp algo: 
+		1 data type : 1655
+		2 data type : 1658
+
+Matrix 16384 x 128 n/m = 128
+	linear algo: 
+		1 data type : 31049
+		2 data type : 30636
+	log algo: 
+		1 data type : 3953
+		2 data type : 4037
+	exp algo: 
+		1 data type : 1523
+		2 data type : 1523
+
+Matrix 8192 x 256 n/m = 32
+	linear algo: 
+		1 data type : 57079
+		2 data type : 80673
+	log algo: 
+		1 data type : 12224
+		2 data type : 10491
+	exp algo: 
+		1 data type : 2032
+		2 data type : 1721
+
+Matrix 4096 x 512 n/m = 8
+	linear algo: 
+		1 data type : 112026
+		2 data type : 109171
+	log algo: 
+		1 data type : 12216
+		2 data type : 10679
+	exp algo: 
+		1 data type : 1531
+		2 data type : 1554
+
+Matrix 2048 x 1024 n/m = 2
+	linear algo: 
+		1 data type : 197154
+		2 data type : 207193
+	log algo: 
+		1 data type : 20881
+		2 data type : 19244
+	exp algo: 
+		1 data type : 1501
+		2 data type : 1530
